@@ -1,4 +1,4 @@
-package br.com.ada.pooii.aula03.exercicio_1.exercicio_resolvido;
+package br.com.ada.pooii.aula03.exercicio_resolvido;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,2 +1,4 @@
-package br.com.ada.pooii.aula06.exercicio_resolvido;public class Item {
+package br.com.ada.pooii.aula06.exercicio_resolvido;
+public class Item {
+
 }

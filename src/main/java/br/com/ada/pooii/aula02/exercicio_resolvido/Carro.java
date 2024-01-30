@@ -1,4 +1,4 @@
-package br.com.ada.pooii.aula02.exercicio_1.exercicio_resolvido;
+package br.com.ada.pooii.aula02.exercicio_resolvido;
 
 public class Carro implements VeiculoMotorizado {
     @Override
