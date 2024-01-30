@@ -5,5 +5,19 @@ public class Pedido {
     private long id;
     private List<Item> itens;
 
-    // getters e setters
+    public long getId() {
+        return id;
+    }
+
+    public void setId(long id) {
+        this.id = id;
+    }
+
+    public List<Item> getItens() {
+        return itens;
+    }
+
+    public void setItens(List<Item> itens) {
+        this.itens = itens;
+    }
 }
